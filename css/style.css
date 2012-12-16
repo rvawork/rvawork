@@ -23,3 +23,8 @@ article{
 table{
     width: 800pt;
 }
+
+a{
+    font-weight: bolder;
+    color: #00FF00;
+}
