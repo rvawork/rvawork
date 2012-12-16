@@ -1,31 +1,25 @@
-header{
-    #width:100%;
-    #height: 100px;
-    background: #000000;
-    text-align: center;
-    position: absolute;
-    left: auto;
+body{
+    background-image: url(../images/grid.png);
+    background-repeat: repeat;
+}
+
+section{
+    background-image: url(../images/subtle_carbon.png);
+    background-repeat: repeat;
+    border-radius: 10pt;
+    width: 800pt;
+    position: relativ;
+    margin: 10% auto;
+    background-color: #000000;
+    font-size: 30pt;
+    text-align: left;
     color: #00FF00;
 }
 
-body{
-    width: 100%;
-    height: 70%;
-    position: relative;
-    #top: 5px;
-    background-image: url(../images/lanMan.jpg);
-    background-position: center;
-    background-size: auto;
-    background-repeat: no-repeat;
-    position: absolute;
+article{
+    margin: 0 30pt;
 }
 
-footer{
-    width: 100%;
-    #height: 50px;
-    background: #000000;
-    text-align: center;
-    color: #ffffff;
-    position: fixed;
-    bottom: 0;
+table{
+    width: 800pt;
 }
