@@ -1,22 +1,31 @@
 header{
-    width:100%;
-    height: 10%;
+    #width:100%;
+    #height: 100px;
     background: #000000;
     text-align: center;
-    color: #ffffff;
+    position: absolute;
+    left: auto;
+    color: #00FF00;
 }
 
-article{
+body{
     width: 100%;
     height: 70%;
+    position: relative;
+    #top: 5px;
     background-image: url(../images/lanMan.jpg);
     background-position: center;
-    background-size: contain;
+    background-size: auto;
     background-repeat: no-repeat;
     position: absolute;
 }
 
 footer{
     width: 100%;
-    height: 5%;
+    #height: 50px;
+    background: #000000;
+    text-align: center;
+    color: #ffffff;
+    position: fixed;
+    bottom: 0;
 }
