@@ -9,11 +9,15 @@ section{
     border-radius: 10pt;
     width: 800pt;
     position: relativ;
-    margin: 10% auto;
+    margin: 20pt auto;
     background-color: #000000;
-    font-size: 30pt;
+    font-size: 20pt;
     text-align: left;
     color: #00FF00;
+}
+
+td{
+    width:25%;
 }
 
 article{
@@ -27,4 +31,9 @@ table{
 a{
     font-weight: bolder;
     color: #00FF00;
+}
+
+hr{
+    color: #000000;
+    width: 100%;
 }
