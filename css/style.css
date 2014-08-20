@@ -11,29 +11,12 @@ section{
     position: relativ;
     margin: 20pt auto;
     background-color: #000000;
-    font-size: 20pt;
-    text-align: left;
+    font-size: 70pt;
+    text-align: center;
     color: #00FF00;
-}
-
-td{
-    width:25%;
-}
-
-article{
-    margin: 0 30pt;
-}
-
-table{
-    width: 800pt;
 }
 
 a{
     font-weight: bolder;
     color: #00FF00;
-}
-
-hr{
-    color: #000000;
-    width: 100%;
 }
